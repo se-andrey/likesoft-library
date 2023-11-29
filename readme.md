@@ -15,7 +15,7 @@
 ### клонируем репозиторий 
 
 
-    git clone https://github.com/se-andrey/baum.git
+    git clone https://github.com/se-andrey/likesoft-library.git
 
 
 ### запуск
